@@ -1,7 +1,13 @@
 # VITULUS 3D models
 VITULUS printable files. 
 
-![VITULUS](http://)
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSmain.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSpbottom.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSside.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSfront.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSback.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUSbottom.png?raw=true))
+![VITULUS]([http://](https://github.com/lacina-dev/VITULUS-3D-models/blob/main/VITULUStop.png?raw=true))
 
 
 ##### DISCLAIMER
